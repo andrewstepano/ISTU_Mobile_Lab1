@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Example</string>
+    <string name="app_name">My Card</string>
     <string name="full_name">Andrey Stepanov</string>
-    <string name="group">Б23-191-1зу</string>
+    <string name="group">B23_191_1zu</string>
     <string name="contact">Email: stepanov.istu@gmail.com</string>
     <string name="avatar_desc">Photo</string>
 </resources>
