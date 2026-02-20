@@ -13,11 +13,12 @@
         android:id="@+id/avatarImage"
         android:layout_width="@dimen/avatar_size"
         android:layout_height="@dimen/avatar_size"
-        android:src="@drawable/android_logo"
+        android:layout_marginTop="400dp"
         android:contentDescription="@string/avatar_desc"
-        app:layout_constraintTop_toTopOf="parent"
+        android:src="@drawable/android_logo"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/nameText"

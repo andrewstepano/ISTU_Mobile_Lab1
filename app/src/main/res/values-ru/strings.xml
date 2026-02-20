@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Визитка</string>
+    <string name="full_name">Андрей Степанов</string>
+    <string name="group">Б23-191-1зу</string>
+    <string name="contact">stepanov.istu@gmail.com</string>
+    <string name="avatar_desc">Фото</string>
+</resources>
